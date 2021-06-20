@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566239482396",
+    "project_id": "dhktpm14-96839",
+    "storage_bucket": "dhktpm14-96839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566239482396:android:ba97f9fc298d0dd4d9c5d9",
+        "android_client_info": {
+          "package_name": "com.example.roombasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566239482396-3uir5iu7imuu2b9uccnbi5o31tujqnlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bHbJaLaBeI7fBnxwP-fca_BV721fp40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566239482396-3uir5iu7imuu2b9uccnbi5o31tujqnlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

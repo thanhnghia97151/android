@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.FireBaseTest" parent="@style/Theme.Leanback" />
+</resources>

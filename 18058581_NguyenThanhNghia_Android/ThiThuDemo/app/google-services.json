@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306442067917",
+    "project_id": "thithudemo",
+    "storage_bucket": "thithudemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306442067917:android:4a54bb27b2008cd14fae84",
+        "android_client_info": {
+          "package_name": "com.example.thithudemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306442067917-r8v2g7pam0e8eu7kemu5lkfloaufrh56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPBOAVSE1G0y4VjmZEt6hNu42jjBTPYJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306442067917-r8v2g7pam0e8eu7kemu5lkfloaufrh56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

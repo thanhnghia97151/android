@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cáp chuyển từ Cổng  USB\n sang PS2..."
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/imgThing"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/imgThing"
+        app:layout_constraintTop_toBottomOf="@+id/imgThing" />
+
+    <RatingBar
+        android:id="@+id/rtbDanhGia"
+        style="@style/Widget.AppCompat.RatingBar.Indicator"
+        android:layout_width="183dp"
+        android:layout_height="40dp"
+        android:indeterminate="false"
+        android:numStars="5"
+        android:rating="3"
+        android:stepSize="0.1"
+        app:layout_constraintEnd_toEndOf="@+id/tvName"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tvName"
+        app:layout_constraintTop_toBottomOf="@+id/tvName" />
+
+    <ImageView
+        android:id="@+id/imgThing"
+        android:layout_width="150dp"
+        android:layout_height="144dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="TODO"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/carbusbtops2_1" />
+
+    <TextView
+        android:id="@+id/tvPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="69.000 đ"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/rtbDanhGia"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/rtbDanhGia"
+        app:layout_constraintTop_toBottomOf="@+id/rtbDanhGia" />
+</androidx.constraintlayout.widget.ConstraintLayout>

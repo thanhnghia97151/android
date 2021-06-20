@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754645626321",
+    "project_id": "fulldemothithu",
+    "storage_bucket": "fulldemothithu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754645626321:android:8ee6c1fa97f672a8c444f0",
+        "android_client_info": {
+          "package_name": "com.example.fulldemothithu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754645626321-md2o069jktifuojuj6nojt45jmpimdrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkaFePyE8eXIKJ2AL5qkxsll7uo325VUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754645626321-md2o069jktifuojuj6nojt45jmpimdrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
